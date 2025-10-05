@@ -77,8 +77,8 @@ The mobile app offers an intuitive interface to monitor and control irrigation e
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/SaifEddinBrahmi/Mobil_App.git
-   cd "AgriControl Mobile App"
+   git clone https://github.com/SaifEddinBrahmi/Smart-Agriculture-IoT-System.git
+   cd "Smart-Agriculture-IoT-System"
    ```
 
 2. **Install dependencies**
@@ -261,7 +261,9 @@ This project is part of the AgriControl ecosystem.
 
 If you find this project useful, please consider giving it a star! It helps others discover this project and motivates continued development.
 
-[![GitHub stars](https://img.shields.io/github/stars/SaifEddinBrahmi/Mobil_App?style=social)](https://github.com/SaifEddinBrahmi/Mobil_App/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/SaifEddinBrahmi/Smart-Agriculture-IoT-System?style=social)](https://github.com/SaifEddinBrahmi/Smart-Agriculture-IoT-System/stargazers)
+
+👉 [**Star this repository on GitHub**](https://github.com/SaifEddinBrahmi/Smart-Agriculture-IoT-System)
 
 ---
 
