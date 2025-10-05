@@ -1,0 +1,51 @@
+export default {
+  "Sign Up": "Sign Up",
+  "Login": "Login",
+  "Email": "Email",
+  "Password": "Password",
+  "Account created successfully": "Account created successfully",
+  "Logged in successfully": "Logged in successfully",
+  "Invalid email address.": "Invalid email address.",
+  "No user found with this email.": "No user found with this email.",
+  "Incorrect password.": "Incorrect password.",
+  "Email already in use.": "Email already in use.",
+  "Authentication failed. Please try again.": "Authentication failed. Please try again.",
+  "Already have an account? Login": "Already have an account? Login",
+  "Need an account? Sign Up": "Need an account? Sign Up",
+  "Change Language": "Change Language",
+
+  "pompesCharts": "Pompes Charts",
+  "vannesCharts": "Vannes Charts",
+  "bassinCharts": "Bassin Charts",
+  "sondeCharts": "Sonde Charts",
+  "logout": "logout",
+
+  "pompesDataChart": "Pompes Data Chart",
+  "backToPompes": "Back to Pompes",
+  "errorUserNotAuthenticated": "User is not authenticated",
+
+  "Pompes Actions": "Pompes Actions",
+  "Hide Data": "Hide Data",
+  "Show Data": "Show Data",
+  "View Charts": "View Charts",
+
+  // AddPompes Translations
+  "addPompes.title": "Add Pompes",
+  "addPompes.pompes1": "Pompes 1",
+  "addPompes.pompes2": "Pompes 2",
+  "addPompes.periodPlaceholder": "Period (min)",
+  "addPompes.selectDate": "Select Start Date",
+  "addPompes.selectedDate": "Selected Date:",
+  "addPompes.selectTime": "Select Start Time",
+  "addPompes.selectedTime": "Selected Time:",
+  "addPompes.addButton": "Add Pompes",
+
+  // DisplayPompes Translations
+  "displayPompes.title": "Pompes Data",
+  "displayPompes.name": "Name:",
+  "displayPompes.period": "Period:",
+  "displayPompes.startDate": "Start Date:",
+  "displayPompes.deleteButton": "Delete",
+  "displayPompes.errorAuth": "User is not authenticated",
+  "displayPompes.errorDelete": "Failed to delete Pompes data",
+};

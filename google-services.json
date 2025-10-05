@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "338095447203",
+    "firebase_url": "https://tsst-a4245-default-rtdb.firebaseio.com",
+    "project_id": "tsst-a4245",
+    "storage_bucket": "tsst-a4245.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:338095447203:android:735790b19be70d677db316",
+        "android_client_info": {
+          "package_name": "webixia.mobapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPeJBlNWSghlGVoy3yXwHIEREIMITwEGQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
